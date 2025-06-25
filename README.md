@@ -13,14 +13,23 @@
 
 ## 文件夹结构说明  
 Hotel_Booking_Analysis/
+
 ├── data/ # 数据文件（原始 + 处理后）
+
 ├── notebooks/ # 分析流程 Notebook（预处理→建模→解释）
+
 ├── sql/ # SQL 量化模拟脚本（策略验证、数据预处理）
+
 ├── powerbi/ # PowerBI 策略沙盘报表
+
 ├── tableau/ # Tableau 可视化成果
+
 ├── models/ # 训练好的预测模型（如 XGBoost）
+
 ├── reports/ # 分析报告（详细版 + 精简版）
+
 ├── docs/ # 补充文档（数据字典、整体思路）
+
 └── README.md # 项目说明（你正在阅读的内容）
 
 
